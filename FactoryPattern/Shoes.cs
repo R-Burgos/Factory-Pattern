@@ -24,7 +24,7 @@ namespace FactoryPattern
             Thread.Sleep(500);
             Console.WriteLine("...");
             Thread.Sleep(1000);
-            Console.WriteLine($"Enjoy your {GetType().Name.ToLower()}. They are Sketchers, get to stepping sucker.");
+            Console.WriteLine($"Enjoy your {GetType().Name.ToLower()}. They are Skechers, get to stepping sucker.");
         }
     }
 }
