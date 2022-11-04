@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("                                      *-------------------*");
             Console.WriteLine("                                      |  Ding Ding Ding!  |");
             Console.WriteLine("                                      *-------------------*\n");
